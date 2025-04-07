@@ -1,2 +1,2 @@
-Collaborated on a UNP Education project analyzing credit card customer data using MS Excel. Cleaned and organized raw data, applied filters and formatting, and created pivot tables/charts to identify customer trends. Demonstrated strong analytical and teamwork skills in deriving insights
-MY EXCEL FILE:https://docs.google.com/spreadsheets/d/1pLtKy0rEh-NjIhabaCcZlDghWIDUJ_8V/edit?usp=sharing&ouid=117186347300854597684&rtpof=true&sd=true
+Collaborated on a UNP Education project analyzing credit card customer data using MS Excel. Cleaned and organized raw data, applied filters and formatting, and created pivot tables/charts to identify customer trends. Demonstrated strong analytical and teamwork skills in deriving insights.
+MY EXCEL PROJECT FILE:https://1drv.ms/x/c/5e1235599f388d3f/Eezw5YyrULBImYvJJT0dYncB840SRw9ToHX2Pljyuommrw?e=tGTUnn
